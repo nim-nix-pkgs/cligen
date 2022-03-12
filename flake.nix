@@ -263,6 +263,10 @@
   inputs."cligen-v1_5_21".inputs.nixpkgs.follows = "nixpkgs";
   inputs."cligen-v1_5_21".inputs.flakeNimbleLib.follows = "flakeNimbleLib";
   
+  inputs."cligen-v1_5_22".url = "path:./v1_5_22";
+  inputs."cligen-v1_5_22".inputs.nixpkgs.follows = "nixpkgs";
+  inputs."cligen-v1_5_22".inputs.flakeNimbleLib.follows = "flakeNimbleLib";
+  
   inputs."cligen-v1_5_3".url = "path:./v1_5_3";
   inputs."cligen-v1_5_3".inputs.nixpkgs.follows = "nixpkgs";
   inputs."cligen-v1_5_3".inputs.flakeNimbleLib.follows = "flakeNimbleLib";
