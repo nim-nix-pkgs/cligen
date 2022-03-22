@@ -8,8 +8,8 @@
   inputs.flakeNimbleLib.inputs.nixpkgs.follows = "nixpkgs";
   
   inputs.src-cligen-v0_9_24.flake = false;
+  inputs.src-cligen-v0_9_24.ref   = "refs/tags/v0.9.24";
   inputs.src-cligen-v0_9_24.owner = "c-blake";
-  inputs.src-cligen-v0_9_24.ref   = "v0_9_24";
   inputs.src-cligen-v0_9_24.repo  = "cligen.git";
   inputs.src-cligen-v0_9_24.type  = "github";
   
