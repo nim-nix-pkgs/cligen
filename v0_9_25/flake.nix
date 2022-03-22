@@ -10,7 +10,7 @@
   inputs.src-cligen-v0_9_25.flake = false;
   inputs.src-cligen-v0_9_25.ref   = "refs/tags/v0.9.25";
   inputs.src-cligen-v0_9_25.owner = "c-blake";
-  inputs.src-cligen-v0_9_25.repo  = "cligen.git";
+  inputs.src-cligen-v0_9_25.repo  = "cligen";
   inputs.src-cligen-v0_9_25.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:
