@@ -1,5 +1,5 @@
 {
-  description = ''Infer & generate command-line interace/option/argument parsers'';
+  description = ''Infer & generate command-line interace/option/argument parser'';
 
   inputs.flakeNimbleLib.owner = "riinr";
   inputs.flakeNimbleLib.ref   = "master";
@@ -9,8 +9,8 @@
   
   inputs.src-cligen-v0_9_34.flake = false;
   inputs.src-cligen-v0_9_34.owner = "c-blake";
-  inputs.src-cligen-v0_9_34.ref   = "refs/tags/v0.9.34";
-  inputs.src-cligen-v0_9_34.repo  = "cligen";
+  inputs.src-cligen-v0_9_34.ref   = "v0_9_34";
+  inputs.src-cligen-v0_9_34.repo  = "cligen.git";
   inputs.src-cligen-v0_9_34.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:
