@@ -11,6 +11,7 @@
   inputs.src-cligen-v0_9_43.ref   = "refs/tags/v0.9.43";
   inputs.src-cligen-v0_9_43.owner = "c-blake";
   inputs.src-cligen-v0_9_43.repo  = "cligen";
+  inputs.src-cligen-v0_9_43.dir   = "";
   inputs.src-cligen-v0_9_43.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:
