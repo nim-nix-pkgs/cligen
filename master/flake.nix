@@ -11,7 +11,6 @@
   inputs.src-cligen-master.ref   = "refs/heads/master";
   inputs.src-cligen-master.owner = "c-blake";
   inputs.src-cligen-master.repo  = "cligen";
-  inputs.src-cligen-master.dir   = "";
   inputs.src-cligen-master.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:
