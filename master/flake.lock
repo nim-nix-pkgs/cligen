@@ -42,11 +42,11 @@
     "src-cligen-master": {
       "flake": false,
       "locked": {
-        "lastModified": 1648228631,
-        "narHash": "sha256-t8JPh7UB7BIIcmT1sRXNNlg8B04AqDYcxYISnUViV1E=",
+        "lastModified": 1649944970,
+        "narHash": "sha256-C8LoPRU0B4n2coLveswPs/RVNHeS38rUvSXH5bGC9js=",
         "owner": "c-blake",
         "repo": "cligen",
-        "rev": "f63a8678a87eef90bde8b16095f366b1b054d591",
+        "rev": "c044b9f83c8fdb6d1127ce6a781fc7880c3649fe",
         "type": "github"
       },
       "original": {
