@@ -23,8 +23,8 @@
     },
     "nixpkgs": {
       "locked": {
-        "narHash": "sha256-sK1Ow//80EKE3bAF5d+2gB8vPXw6m5TBk3wSLHvdVe0=",
-        "path": "/nix/store/0yqgkbpmsk7ck4s34wk505sfdd9vils4-source",
+        "narHash": "sha256-7sWpWRO0IsBP5jm9qCrpuzDkWC7UAghiCmZZ+1uqHKo=",
+        "path": "/nix/store/q2jrkx5a3z6yxzbfai0kxpnqki80jm3l-source",
         "type": "path"
       },
       "original": {
@@ -42,11 +42,11 @@
     "src-cligen-master": {
       "flake": false,
       "locked": {
-        "lastModified": 1649944970,
-        "narHash": "sha256-C8LoPRU0B4n2coLveswPs/RVNHeS38rUvSXH5bGC9js=",
+        "lastModified": 1651357311,
+        "narHash": "sha256-b+86rd/K2JVxMFWq8ArURGEX+sQgP4F4T3hJbvhgRL8=",
         "owner": "c-blake",
         "repo": "cligen",
-        "rev": "c044b9f83c8fdb6d1127ce6a781fc7880c3649fe",
+        "rev": "af80bb0bbfb4c088fc9328dfe738fe30d9f38c60",
         "type": "github"
       },
       "original": {
