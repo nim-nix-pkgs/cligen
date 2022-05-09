@@ -7,7 +7,7 @@
   "license": "MIT",
   "web": "https://github.com/c-blake/cligen",
   "refs": [
-    "fatal: unable to access 'https://github.com/c-blake/cligen.git/': SSL connection timeout",
+    "fatal: unable to access 'https://github.com/c-blake/cligen.git/': Could not resolve host: github.com",
     ""
   ],
   "heads": []
