@@ -37,22 +37,22 @@
       "inputs": {
         "flakeNimbleLib": "flakeNimbleLib",
         "nixpkgs": "nixpkgs",
-        "src-cligen-master": "src-cligen-master"
+        "src-cligen-v1_5_24": "src-cligen-v1_5_24"
       }
     },
-    "src-cligen-master": {
+    "src-cligen-v1_5_24": {
       "flake": false,
       "locked": {
-        "lastModified": 1655824666,
-        "narHash": "sha256-+0jQXy5Qx4ojGiKyt7nsfIIUs43SjMrRKl4Uwidr8OA=",
+        "lastModified": 1654702226,
+        "narHash": "sha256-QmGWVoS6pe6QKp/nxVE0WI1clLs9gJ+l9wjnmtpuZV4=",
         "owner": "c-blake",
         "repo": "cligen",
-        "rev": "8b74e4ee86d9d3c60677dba2f6bf624fbc45dacb",
+        "rev": "a276fa26fd352816f2ff807591540b27c5247c4a",
         "type": "github"
       },
       "original": {
         "owner": "c-blake",
-        "ref": "refs/heads/master",
+        "ref": "refs/tags/v1.5.24",
         "repo": "cligen",
         "type": "github"
       }
